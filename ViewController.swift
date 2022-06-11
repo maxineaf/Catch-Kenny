@@ -34,9 +34,11 @@ class ViewController: UIViewController {
     
     var something = 22
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+            
+        print("ben bir malım")
         myscore.text = "Score: \(tapcounterint)"
         highscore.text = "Highscore: \(intHighScore)"
     
