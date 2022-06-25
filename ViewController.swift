@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var melisa = 2
+    var melisa = 06
     
     @IBOutlet weak var timing: UILabel!
     @IBOutlet weak var myscore: UILabel!
